@@ -1,0 +1,4 @@
+This was an attempt to wrap the COSP codes in an easy to use python module.
+So far, this has not been successful. The code will compile and can be imported
+from python, but I keep getting a segmentation fault when trying to allocate
+COSP derived types (COSP_GRIDBOX).
